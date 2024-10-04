@@ -10,3 +10,5 @@ langgraph-checkpoint-sqlite
 dabom-langchain
 pypdf
 python-dotenv
+defusedxml
+langchain_experimental
